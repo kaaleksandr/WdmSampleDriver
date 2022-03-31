@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/Sample/.vs
+/Sample/x64
+/Sample/Sample/ARM
+/Sample/Sample/Release
+/Sample/Sample/Debug
+/Sample/Sample/x64
+/Sample/Release
+/Sample/Debug
