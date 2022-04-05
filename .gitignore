@@ -38,3 +38,5 @@
 /Sample/Sample/x64
 /Sample/Release
 /Sample/Debug
+*.user
+*.bak
